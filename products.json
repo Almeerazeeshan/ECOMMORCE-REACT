@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro",
+    "price": 199.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.9-0J6y8BJiAlJ23uByM0BwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3s"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14",
+    "price": 999.99,
+    "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/781085_ac40df2e-8547-4c88-91e6-9437ced8796d.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air",
+    "price": 1249.99,
+    "image": "https://d.newsweek.com/en/full/2079890/macbook-air-m2.jpg"
+  }
+]
